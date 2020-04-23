@@ -1,10 +1,14 @@
 table {
     color: black;
-
+    border: 1px solid ;
+}
+td{
+    border: 1px solid black;
 }
 
 body {
     background-color: #fff;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 a {
